@@ -1,0 +1,6 @@
+puts "Tipos de tipos. Fale isso bem rápido três vezes."
+puts "String! Aquilo que vem nas aspas e é imutável, permanente, igual a fome."
+puts "Int: 1, 2, 3"
+puts "float: 1.02"
+puts "boolean: true/false" 
+puts "null"
