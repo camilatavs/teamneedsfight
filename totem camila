@@ -1,0 +1,35 @@
+﻿val = 0
+
+função imprimir ()
+	impressora.start ();
+end
+
+função ExibirValor (valAtual)
+	painel.exiba(valAtual)
+end
+
+função novaSenha (val)
+	val = val+1
+	imprimir (.txt)
+end
+
+função Proximo (val)
+	Se (val >= valAtual)
+		ValAtual = val + 1
+		ExibirValor (valAtual)
+		lembrar ()
+	End
+End
+
+
+função lembrar ()
+	tocar ()
+End
+
+clique na senha:
+	novaSenha()
+
+chamar novaSenha:
+	proximo()
+
+lembrar()
