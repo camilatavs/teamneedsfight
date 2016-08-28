@@ -19,4 +19,6 @@ puts pokemon[:agua].last
 
 puts "========"
 
+pokemon [:fogo] << "Charmeleon"
+
 puts "========"

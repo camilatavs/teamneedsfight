@@ -16,7 +16,7 @@ pokemon.each do |poke|
 	if poke == "Pikachu"
 		puts poke
 	else
-		puts "Pokemon não existe!"
+		>> ""
 	end
 end
 #saida
